@@ -1,12 +1,8 @@
 package prob1;
 
-	/**
-	*Represents a basketball player ZZZ
-	*
-	*
-	*/
+public class BasketballPlayer {
 
-	public class BasketballPlayer {
+   //hello world!
 
 	private int	freeThrowsAttempted;
 	private int	freeThrowsMade;
